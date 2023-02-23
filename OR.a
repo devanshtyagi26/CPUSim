@@ -1,8 +1,8 @@
 INP
 STA A
-LDA A
+INP
+ADD A
 OUT
 HLT
 
 A: .data 2 0
-

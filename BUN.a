@@ -1,7 +1,5 @@
 INP
-STA A
-BUN 4
+BUN A
+INP
+A: OUT
 HLT
-OUT
-HLT
-A: .data 1 0

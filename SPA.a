@@ -1,7 +1,4 @@
 INP
-STA A
 SPA
 OUT
 HLT
-
-A: .data 1 0
