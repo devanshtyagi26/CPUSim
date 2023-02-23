@@ -1,0 +1,7 @@
+INP
+STA A
+CMA
+OUT
+HLT
+
+A: .data 2 16

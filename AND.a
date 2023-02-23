@@ -1,0 +1,8 @@
+INP
+STA A
+INP
+AND A
+OUT
+HLT
+
+A: .data 2 16

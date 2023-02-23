@@ -1,0 +1,14 @@
+A:  INP
+    SZA
+    BUN B
+    BUN END
+
+B:  ADD S
+    STA S
+    BUN A
+
+END: LDA S
+     OUT
+     HLT
+
+S: .data 1 0
